@@ -3,7 +3,7 @@ import Select from 'react-select'
 import axios from 'axios'
 import './App.css'
 
-const BASE_URL = '/api'
+const BASE_URL = 'https://web-production-371f.up.railway.app';
 
 interface Option {
   value: string
